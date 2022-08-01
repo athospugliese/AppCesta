@@ -20,6 +20,6 @@ expo start
 
 # Screenshots
 <p align="center">
-  <img src="https://i.imgur.com/vQoD8RK.gif">
+  <img src="[your_relative_path_here](https://i.imgur.com/vQoD8RK.gif)" width="576" title="hover text">
 </p>
 
