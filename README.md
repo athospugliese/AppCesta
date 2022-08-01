@@ -16,7 +16,7 @@ Projeto desenvolvido durante a formação React Native: Começando do Zero da Al
 ### Mobile
 
 <img alt="" title="" src="" width="1280px">
-<img src="https://i.imgur.com/5HtbIU1.gif" alt="Miss minutes da série "Loki" aplicada a uma interface mobile">
+<img src="https://i.imgur.com/o7HLiU6.gif" alt="Miss minutes da série "Loki" aplicada a uma interface mobile">
 
 ### 🛠 Tecnologias
 
