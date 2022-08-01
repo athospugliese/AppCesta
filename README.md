@@ -20,6 +20,6 @@ expo start
 
 # Screenshots
 <p align="center">
-  <img src="(https://i.imgur.com/vQoD8RK.gif" width="576">
+  <img src="https://i.imgur.com/vQoD8RK.gif" width="576">
 </p>
 
