@@ -1,7 +1,7 @@
-# Orgs Cesta :clock1:
+# Orgs Cesta :shopping_cart:
 
 
-## 💻 Sobre o projeto
+## 📲 Sobre o projeto
 
 Aplicativo desenvolvido apenas para fins de estudo e crescimento voltado ao React Native. <br>
 Projeto desenvolvido durante a formação React Native: Começando do Zero da Alura <br>
@@ -16,7 +16,7 @@ Projeto desenvolvido durante a formação React Native: Começando do Zero da Al
 ### Mobile
 
 <img alt="" title="" src="" width="1280px">
-<img src="https://i.imgur.com/o7HLiU6.gif" alt="Gravação do uso do App no Mobile com Expo">
+<img src="https://i.imgur.com/5HtbIU1.gif" alt="Miss minutes da série "Loki" aplicada a uma interface mobile">
 
 ### 🛠 Tecnologias
 
