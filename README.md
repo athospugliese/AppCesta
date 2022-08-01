@@ -15,8 +15,8 @@ Projeto desenvolvido durante a formação React Native: Começando do Zero da Al
 ## 🎨 Layout
 ### Mobile
 
-<img alt="" title="" src="" width="200px">
-<img src="https://i.imgur.com/vQoD8RK.gif" alt="Gravação do uso do App no Mobile com Expo">
+<img alt="" title="" src="" width="600px">
+<img src="(https://imgur.com/o7HLiU6" alt="Gravação do uso do App no Mobile com Expo">
 
 ### 🛠 Tecnologias
 
